@@ -1,0 +1,6 @@
+{
+  "name": "ARC-X",
+  "description": "Advanced Reactive Cognitive eXecutive - Futuristic AI companion with 3D avatar, holographic core, voice intelligence, and command center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
